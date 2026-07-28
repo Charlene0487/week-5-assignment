@@ -1,0 +1,9 @@
+# Hackathon #1 Reflection
+
+## Reflection
+
+Hackathon #1 was a valuable learning experience that strengthened both my technical and teamwork skills. The biggest technical hurdle my team faced was integrating multiple datasets while ensuring the data was clean, consistent, and suitable for analysis. We encountered missing values, inconsistent data formats, and validation issues that affected the quality of our ETL pipeline and dashboards. Since our solution relied on accurate data to generate meaningful insights, resolving these issues became our top priority.
+
+To overcome the challenge, we divided responsibilities based on each team member's strengths. Some members focused on data cleaning and validation, while others worked on the ETL pipeline, dashboard development, and documentation. We also held regular discussions to review progress, resolve blockers, and verify that everyone understood the data transformations before moving to visualization and analysis. This collaborative approach enabled us to build a reliable dataset and complete the project within the given timeline.
+
+If I were to participate in another hackathon, I would improve our teamwork by defining roles and deliverables at the beginning of the project, using a shared task tracker to monitor progress, and scheduling regular code review and integration sessions. I would also encourage earlier end-to-end testing instead of waiting until the final stages. Overall, Hackathon #1 enhanced my technical skills in data analysis and reinforced the importance of communication, collaboration, and structured project planning when working under tight deadlines.
